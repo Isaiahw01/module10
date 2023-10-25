@@ -14,6 +14,9 @@ Dependencies required: <br>
 [Inquirer](https://www.npmjs.com/package/inquirer) <br>
 <br>
 
+used [Jest](https://www.npmjs.com/package/jest) for testing!<br>
+<br>
+
 Finally, because the main functionality of the project is using ES6 modules for imports and exports and jest is only compatible with common JS 
 imports and exports, the project additionally uses [babel-jest](https://www.npmjs.com/package/babel-jest) to handle the import / export conversions. 
 There are a couple of extra config files that have being created for use by babel-jest. These are, 'jest.config.cjs' and '.babelrc'.
@@ -68,17 +71,8 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered<br>
 <br>
 <br>
 
-## Tests Passing
-<br>
-<p align="left">
-  <img src=images/tests.png>
-</p>
-
-<br>
-<br>
-
 ## Instructional Video Link
 <br>
 <br>
 
-[SVG Logo Generator, How Do You Use It?](https://youtu.be/5CZbPmcF46o)
+[SVG Logo Generator, How Do You Use It?](https://drive.google.com/file/d/1Gtjptd-5Y_bY67-U_ucvLaxfLXwiPuiU/view)
